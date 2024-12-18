@@ -10,7 +10,6 @@ RegisterNetEvent('esx:playerLoaded', function()
     vx.callback.await("jim-playtime:playerLoaded", false)
 end)
 
-
 ---# QBCORE
 RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
     vx.callback.await("jim-playtime:playerLoaded", false)
