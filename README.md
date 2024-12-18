@@ -55,7 +55,8 @@ Perfect for creating a more immersive and welcoming experience on your server.
 
 - FiveM server.  
 - TXAdmin.  
-- Steam integration for player names.  
+- Steam integration for player names.
+- VxLib (https://github.com/Vertex-Scripts/vx_lib)
 
 ---
 
