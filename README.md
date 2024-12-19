@@ -1,7 +1,7 @@
 
 # 🎮 FiveM Playtime Script  
 
-**A standalone script that enhances player interactions on your FiveM server by displaying playtime and join stats using TXaAdmin and local dta.**
+**A standalone script that enhances player interactions on your FiveM server by displaying playtime and join stats using TXaAdmin and local data.**
 
 ---
 
