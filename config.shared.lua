@@ -1,8 +1,8 @@
 ---@class SharedConfig
----@field enableJoinMessage boolean
----@field enablePlayTime boolean
----@field enableTimesJoined boolean
----@field firstJoinDate boolean
+---@field welcomeMessage string
+---@field playTimeMessage string
+---@field timesJoinedMessage string
+---@field firstJoinDateMessage string
 SharedConfig = {}
 
 SharedConfig.Locales = {
